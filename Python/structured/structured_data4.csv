@@ -1,0 +1,17 @@
+Day,Local Time,Dir,Speed/Gust (km/h),Temp/Feels Like,Humidity,Pressure (mb),Cloud Amount,Precip Amount,Weather
+Sun 17Nov,01:00, SW,10 / 18,12 / 11°C,75% ,1020,Low level cloud: 25% Mid level cloud: 97% High level cloud: 100% Most Significant Cloud Type: medium100% ,Expect 0.0 of precipitation over the past 3 hours.0.0,Overcast skies
+,04:00, SSW,9 / 21,12 / 10°C,78% ,1019,Low level cloud: 79% Mid level cloud: 83% High level cloud: 100% Most Significant Cloud Type: low100% ,Expect 0.6 of precipitation over the past 3 hours.0.6,Light drizzle
+,07:00, SSW,11 / 19,12 / 10°C,85% ,1019,Low level cloud: 91% Mid level cloud: 90% High level cloud: 33% Most Significant Cloud Type: low100% ,Expect 2.6 of precipitation over the past 3 hours.2.6,Moderate rain
+,10:00, SSW,19 / 22,13 / 11°C,82% ,1018,Low level cloud: 67% Mid level cloud: 30% High level cloud: 0% Most Significant Cloud Type: low77% ,Expect 1.7 of precipitation over the past 3 hours.1.7,Light rain
+,13:00, SSW,23 / 27,14 / 12°C,82% ,1019,Low level cloud: 43% Mid level cloud: 19% High level cloud: 12% Most Significant Cloud Type: low50% ,Expect 0.3 of precipitation over the past 3 hours.0.3,Patchy light drizzle
+,16:00, SW,9 / 18,14 / 13°C,86% ,1019,Low level cloud: 43% Mid level cloud: 18% High level cloud: 30% Most Significant Cloud Type: low52% ,Expect 0.1 of precipitation over the past 3 hours.0.1,Partly cloudy skies
+,19:00, SSE,5 / 13,13 / 12°C,94% ,1020,Low level cloud: 47% Mid level cloud: 3% High level cloud: 14% Most Significant Cloud Type: low49% ,Expect 0.0 of precipitation over the past 3 hours.0.0,Mist
+,22:00, SSE,5 / 9,12 / 12°C,97% ,1021,Low level cloud: 65% Mid level cloud: 3% High level cloud: 20% Most Significant Cloud Type: low68% ,Expect 0.0 of precipitation over the past 3 hours.0.0,Mist
+Mon 18Nov,01:00, SSW,4 / 6,12 / 12°C,95% ,1020,Low level cloud: 58% Mid level cloud: 13% High level cloud: 100% Most Significant Cloud Type: low74% ,Expect 0.0 of precipitation over the past 3 hours.0.0,Mist
+,04:00, E,1 / 7,11 / 10°C,96% ,1017,Low level cloud: 64% Mid level cloud: 3% High level cloud: 100% Most Significant Cloud Type: low77% ,Expect 0.0 of precipitation over the past 3 hours.0.0,Mist
+,07:00, ENE,2 / 8,10 / 10°C,95% ,1014,Low level cloud: 37% Mid level cloud: 82% High level cloud: 100% Most Significant Cloud Type: low77% ,Expect 0.0 of precipitation over the past 3 hours.0.0,Mist
+,10:00, SSW,3 / 5,11 / 11°C,88% ,1012,Low level cloud: 30% Mid level cloud: 54% High level cloud: 100% Most Significant Cloud Type: low60% ,Expect 0.0 of precipitation over the past 3 hours.0.0,Partly cloudy skies
+,13:00, ESE,6 / 9,11 / 10°C,88% ,1009,Low level cloud: 97% Mid level cloud: 98% High level cloud: 3% Most Significant Cloud Type: low100% ,Expect 2.8 of precipitation over the past 3 hours.2.8,Moderate rain
+,16:00, N,5 / 13,11 / 10°C,92% ,1004,Low level cloud: 95% Mid level cloud: 88% High level cloud: 0% Most Significant Cloud Type: low100% ,Expect 4.3 of precipitation over the past 3 hours.4.3,Moderate rain
+,19:00, SSE,13 / 29,11 / 8°C,90% ,1003,Low level cloud: 51% Mid level cloud: 20% High level cloud: 0% Most Significant Cloud Type: low58% ,Expect 6.3 of precipitation over the past 3 hours.6.3,Moderate rain at times
+,22:00, SSW,28 / 42,10 / 7°C,85% ,1004,Low level cloud: 98% Mid level cloud: 78% High level cloud: 1% Most Significant Cloud Type: low100% ,Expect 4.5 of precipitation over the past 3 hours.4.5,Moderate rain
